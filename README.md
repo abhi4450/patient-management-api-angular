@@ -70,8 +70,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 {
-    apiKey: "xxxx"
-    patient_id:"xxxx"
+    "apiKey": "xxxx"
+    "patient_id":"xxxx"
 }
 
 {
